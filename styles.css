@@ -87,3 +87,12 @@ body,
 #logo {
   position: absolute;
 }
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #dedede;
+    text-align: center; /* Optional: Center text horizontally */
+    padding: 5px; /* Optional padding for better visibility */
+}
